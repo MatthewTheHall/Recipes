@@ -1,0 +1,22 @@
+Recipe Name: Chicken Meatballs
+Cuisine: American
+Meal Type: dinner
+Ingredients: [1lb ground chicken, 1 egg, 1/2 cup panko, 1/2 cup mozzarella or parmesan, 2tbsp oil, 2tbsp spicy seasoning mix]
+Preparation Steps: preheat oven to 400f, prepare a large baking pan by spraying it with olive oil, mix the ingredients by hand and form into meatballs on the pan, spray the top again with oil.
+Prep Time: 10 minutes
+Cook Time: 40 minutes
+Difficulty: easy
+Rating: 5
+Notes: cooking time can vary from 30 to 40 minutes, flip it half way always and spray the top again with oil when flipping.
+----------------------
+Recipe Name: eggs
+Cuisine: eggs
+Meal Type: breakfast
+Ingredients: [eggs.eggs.eggs]
+Preparation Steps: eggs
+Prep Time: 1 minutes
+Cook Time: 9999 minutes
+Difficulty: easy
+Rating: 5
+Notes: eggs
+----------------------
